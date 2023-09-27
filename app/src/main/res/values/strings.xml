@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="botonguardar">Guardar</string>
+    <string name="botonLeer">Leer</string>
+    <string name="Dato">Dato guardado</string>
+    <string name="EditText">Ingrese dato</string>
+</resources>
